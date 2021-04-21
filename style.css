@@ -4,12 +4,24 @@ body {
 
 div {
     width: 80%;
-    background-color: violet;
+    background-color: rgb(130, 137, 238);
     margin-right: auto;
     margin-left: auto;
     min-height: 500px;
 }
 
 h1 {
+    text-align: center;
+}
+
+.herb {
+    width: 50%;
+    height: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.font {
     text-align: center;
 }
