@@ -22,6 +22,25 @@ h1 {
     margin-right: auto;
 }
 
+.linki {
+    text-align: center;
+}
+
 .font {
     text-align: center;
 }
+
+.wciecie {
+    text-align: justify;
+    text-indent: 5px;
+}
+
+a:link, a:visited
+{
+    color: rgb(109, 26, 26);
+    text-decoration: none;
+}
+    a:hover
+{
+    color: rebeccapurple;
+    text-decoration: underline;
